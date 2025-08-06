@@ -3,7 +3,7 @@ package anudip;
 public class ArchitectureOfJVM {
 
 	public static void main(String[] args)  {
-		System.out.println("The JVM is a program that runs Java bytecode.");
+	    System.out.println("The JVM is a program that runs Java bytecode.");
 	    System.out.println("It's the runtime environment for Java programs.");
 	    System.out.println("The JVM has three main parts: Class Loader, Runtime Data Areas, and Execution Engine.");
 	    System.out.println("The Class Loader loads Java classes into memory.");
@@ -21,5 +21,6 @@ public class ArchitectureOfJVM {
 	  }
 
 	}
+
 
 
